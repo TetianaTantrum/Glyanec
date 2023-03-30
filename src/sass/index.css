@@ -174,7 +174,7 @@ button {
 .header-goods__list {
   display: flex;
   justify-content: space-between;
-  gap: 15px;
   flex-wrap: wrap;
+  gap: 15px;
   text-transform: uppercase;
 }/*# sourceMappingURL=index.css.map */
