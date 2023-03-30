@@ -1,0 +1,17 @@
+@import './utils/variables';
+@import './utils/mixins';
+@import './utils/placeholders';
+
+@import './base/common';
+@import './base/container';
+@import './base/section';
+@import './base/buttons';
+
+@import './layout/header-upper-part';
+@import './layout/header-lower-part';
+@import './layout/slider';
+@import './layout/advantages';
+@import './layout/categories';
+@import './layout/about';
+@import './layout/questions';
+@import './layout/footer';

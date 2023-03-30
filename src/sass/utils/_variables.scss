@@ -1,0 +1,19 @@
+:root {
+  --primary-font: 'Open Sans', sans-serif;
+  --secondary-font: 'Cuprum', sans-serif;
+  --dark-color: #1e2e36;
+  --light-color: #ffffff;
+  --accent-color: #44c697;
+  --button-hover-focus-color: #39a47d;
+  --button-disabled: #ababab;
+  --action-color: #ff1b1b;
+}
+
+$mobile: 480px;
+$tablet: 768px;
+$desktop: 1400px;
+$mobile-min: 'min-width:' $mobile;
+$mobile-max: 'max-width:' calc($tablet - 1px);
+$tablet-min: 'min-width:' $tablet;
+$tablet-max: 'max-width:' calc($desktop - 1px);
+$desktop-min: 'min-width:' $desktop;
